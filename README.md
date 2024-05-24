@@ -94,6 +94,26 @@ HeyMart must comply with various regulations such as consumer protection laws in
 - Implement automated compliance checks and reporting.
 - Regularly audit the platform for compliance with relevant regulations.
 - Provide training for staff on compliance requirements and best practices.
+  
+Context Diagram:
+https://drive.google.com/file/d/1wQv5-llcYt2ah0YnMbNh46relLIIHk0T/view?usp=sharing
+
+Container Diagram:
+https://drive.google.com/file/d/1UbHrFu3UOSvqAPOYVIgbXf9ntKHEOWfV/view?usp=sharing
+
+Deployment Diagram:
+https://drive.google.com/file/d/1afhk_oWxHXaXqkmT-r4YaFVyrdkMI_66/view?usp=sharing
+
+Component Diagram Product:
+https://drive.google.com/file/d/1YD8PN8TwhetlHQxUOEbNvidYlKiFhBN_/view?usp=sharing
+
+Component Diagram Keranjang Belanja:
+https://drive.google.com/file/d/1qIhE2EbJSutq2bz7zxyZDU37-rSOD4hr/view?usp=sharing
+
+Component Diagram Keranjang Supermarket:
+https://drive.google.com/file/d/1VeZFaFMT2kccPTl29INAB-ibAvtAZNtX/view?usp=sharing
+
+
 
 <br>
 https://app.diagrams.net/#G1wQv5-llcYt2ah0YnMbNh46relLIIHk0T#%7B"pageId"%3A"mUhrBYKB9oya90jDSSy3"%7D
